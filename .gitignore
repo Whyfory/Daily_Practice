@@ -1,3 +1,7 @@
+#Custom Ignore
+/Packages/com.merry-yellow.code-assist/
+
+
 # Unity .gitignore Template
 # Source: https://github.com/github/gitignore/blob/main/Unity.gitignore
 # Last synced: 2025-12-18
